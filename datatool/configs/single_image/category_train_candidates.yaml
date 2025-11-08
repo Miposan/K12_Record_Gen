@@ -1,0 +1,153 @@
+图片内容识别:
+  物体识别:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/物体识别/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/物体识别/TarFiles
+  植物识别:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/植物识别/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/植物识别/TarFiles
+  人物识别:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/人物识别/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/人物识别/TarFiles
+  动物识别:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/动物识别/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/动物识别/TarFiles
+  文本识别:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/文本识别/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/文本识别/TarFiles
+  主体属性识别:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/主体属性识别/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/主体属性识别/TarFiles
+  图像属性识别:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/图像属性识别/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/图像属性识别/TarFiles
+  场景识别:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/场景识别/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/场景识别/TarFiles
+  动作识别:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/动作识别/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/动作识别/TarFiles
+  空间位置识别:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/空间位置识别/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容识别/空间位置识别/TarFiles
+图片信息描述:
+  图片内容描述:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片信息描述/图片内容描述/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片信息描述/图片内容描述/TarFiles
+  图片摘要生成:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片信息描述/图片摘要生成/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片信息描述/图片摘要生成/TarFiles
+  特定视角描述:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片信息描述/特定视角描述/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片信息描述/特定视角描述/TarFiles
+图片内容理解:
+  情感分析:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/情感分析/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/情感分析/TarFiles
+  计数类:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/计数类/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/计数类/TarFiles
+  对比分析:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/对比分析/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/对比分析/TarFiles
+  关系推断:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/关系推断/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/关系推断/TarFiles
+  内容预测:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/内容预测/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/内容预测/TarFiles
+  归因分析:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/归因分析/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/图片内容理解/归因分析/TarFiles
+知识推理问答:
+  数学:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/数学/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/数学/TarFiles
+  物理:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/物理/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/物理/TarFiles
+  化学:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/化学/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/化学/TarFiles
+  生物医学:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/生物医学/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/生物医学/TarFiles
+  天文地理:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/天文地理/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/天文地理/TarFiles
+  行测题:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/行测题/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/行测题/TarFiles
+  工程学:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/工程学/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/工程学/TarFiles
+  经济学:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/经济学/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/经济学/TarFiles
+  语言学:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/语言学/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/语言学/TarFiles
+  历史类:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/历史类/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/历史类/TarFiles
+  艺术类:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/艺术类/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/艺术类/TarFiles
+  计算机:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/计算机/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/计算机/TarFiles
+  代码编程:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/代码编程/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/代码编程/TarFiles
+  图表问答:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/图表问答/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/图表问答/TarFiles
+  其他学科:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/其他学科/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/知识推理问答/其他学科/TarFiles
+应用类:
+  内容创作:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/内容创作/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/内容创作/TarFiles
+  内容提取:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/内容提取/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/内容提取/TarFiles
+  图片翻译:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/图片翻译/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/图片翻译/TarFiles
+  格式转换:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/格式转换/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/格式转换/TarFiles
+  成分分析:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/成分分析/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/成分分析/TarFiles
+  工具使用:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/工具使用/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/工具使用/TarFiles
+  穿搭建议:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/穿搭建议/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/穿搭建议/TarFiles
+  评价看法:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/评价看法/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/评价看法/TarFiles
+  食物问答:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/食物问答/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/食物问答/TarFiles
+  图像生成:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/图像生成/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/图像生成/TarFiles
+  视频生成:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/视频生成/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/应用类/视频生成/TarFiles
+其他:
+  安全红线:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/其他/安全红线/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/其他/安全红线/TarFiles
+  反幻觉:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/其他/反幻觉/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/其他/反幻觉/TarFiles
+  与图无关:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/其他/与图无关/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/其他/与图无关/TarFiles
+  其他:
+  - MetaFiles: /home/cike/InstructionTuningByCategory@20250311/其他/其他/MetaFiles
+    TarFiles: /home/cike/InstructionTuningByCategory@20250311/其他/其他/TarFiles

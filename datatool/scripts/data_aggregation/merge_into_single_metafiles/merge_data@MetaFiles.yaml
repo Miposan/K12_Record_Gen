@@ -1,0 +1,6 @@
+DataDir: Dataset
+Datasets:
+  v6_physic_large_cot_rollout:
+    MetaFiles: Dataset/v6_physic_large_cot_rollout/MetaFiles
+  v6_chemistry_large_cot_rollout:
+    MetaFiles: Dataset/v6_chemistry_large_cot_rollout/MetaFiles
